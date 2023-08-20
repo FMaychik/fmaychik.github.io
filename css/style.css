@@ -1,0 +1,38 @@
+.bodyc {
+    font-family: 'comic sans ms';
+    background-color: #343a40;
+}
+.imgcirc {
+    border: none;
+    border-radius: 100%;
+}
+.txt {
+    color: white;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    border-bottom: 1px solid blue;
+}
+.home {
+    color: white;
+    text-decoration: none;
+}
+.container {
+    background-color: #2b3035;
+}
+.github {
+    color: orange;
+    text-decoration: none;
+}
+.github:hover {
+    border-bottom: 1px solid orange;
+}
+.badge {
+    background-color: #7c7c7d;
+}
+.whr {
+   color: white;
+}
